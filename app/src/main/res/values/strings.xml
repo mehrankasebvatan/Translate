@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Translate</string>
+    <string name="nb_home">خانه</string>
+    <string name="nb_favorite">علاقه مندی</string>
+    <string name="nb_search">جست و جو</string>
+    <string name="btn_pronunciation">تلفظ</string>
+    <string name="btn_favorite">علاقه مندی</string>
+</resources>
